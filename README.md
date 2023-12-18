@@ -1,2 +1,2 @@
-# Youtube-Automatic-Video
-A python scripting project to automatically make youtube videos by extracting posts from reddit.
+# Python-Automation
+Projects for introductiont to scripting in python and python automation.
